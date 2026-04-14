@@ -3,7 +3,7 @@ import re
 import streamlit as st
 
 # Read CSV file
-df = pd.read_csv("C:/Users/enesk/Desktop/Denem/DATASET.csv")
+df = pd.read_csv("C:/Users/laragunes/Desktop/Denem/DATASET.csv")
 drug_names_lower = df['drug_name'].dropna().str.lower().unique()
 
 # Functions
