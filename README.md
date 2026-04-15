@@ -30,7 +30,7 @@ The project implements a simple **chatbot interface** in Python and utilizes a s
 ## ▶️ Usage
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/drug-recommendation-dss.git
+   git clone https://github.com/laragunes/drug-recommendation-dss.git
    cd drug-recommendation-dss
    ```
 2. Install dependencies:
